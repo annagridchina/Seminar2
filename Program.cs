@@ -5,4 +5,9 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.WriteLine("Start");
+Console.WriteLine("Привет");
+int a = 782;
+Console.WriteLine((a / 10) % 10);
+
+
+
